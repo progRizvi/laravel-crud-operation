@@ -7,17 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Crud Operation</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 
 </head>
 
 <body>
     <h1>Crud Operation in Laravel</h1>
     @yield('insertData')
-
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-
-
 </body>
 
 </html>
